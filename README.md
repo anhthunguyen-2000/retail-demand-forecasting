@@ -1,4 +1,4 @@
-# Dự báo nhu cầu bán lẻ — Retail Store Inventory
+# Dự báo nhu cầu bán lẻ - Retail Store Inventory
 
 Phân tích dữ liệu bán hàng hằng ngày và so sánh các mô hình dự báo `Units Sold` cho từng cặp cửa hàng–sản phẩm. Dự án sử dụng hồi quy, mô hình cây và SARIMAX để đánh giá mức độ dự đoán doanh số, đồng thời đối chiếu với các phương pháp dự báo đơn giản.
 
